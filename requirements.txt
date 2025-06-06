@@ -1,0 +1,18 @@
+# LangChain core
+langchain>=0.1.14
+langchain_community>=0.0.28
+
+# LLMs e embeddings
+sentence-transformers>=2.7.0
+transformers>=4.40.0
+huggingface_hub>=0.22.2
+
+# Vectorstore
+hnswlib>=0.8.0
+
+# Data processing
+pandas>=2.2.2
+
+
+# Para pipelines HuggingFace Pipeline com LangChain
+torch>=2.2.2  # ou versão compatível com sua GPU/CPU
